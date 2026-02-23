@@ -90,3 +90,9 @@ a{color:inherit;text-decoration:none}
   .newsGrid{grid-template-columns:1fr}
   .splitPhoto img{height:320px}
 }
+.heroLogo {
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+  display: block;
+}
