@@ -17,7 +17,14 @@ export default function Page() {
 <div className="kicker" style={{ color: "rgba(244,239,230,.75)" }}>
   Independent owners club
 </div>
-          <h1 className="heroH1 serif">Monte Carlo Offshorer</h1>
+         <Image
+  src="/mco-logo.png"
+  alt="Monte Carlo Offshorer"
+  width={1200}
+  height={260}
+  priority
+  className="heroLogo"
+/>
           <p className="heroP">
             Built in Ventimiglia. Preserved by its owners.
             <br />
