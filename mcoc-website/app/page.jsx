@@ -17,7 +17,6 @@ export default function Page() {
 <div className="kicker" style={{ color: "rgba(244,239,230,.75)" }}>
   Independent owners club
 </div>
-         <Image
   <Image
   src="/photos/Monte-Carlo-Offshorer_plot LOGO.png"
   alt="Monte Carlo Offshorer"
