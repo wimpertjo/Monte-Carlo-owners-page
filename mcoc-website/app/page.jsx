@@ -18,7 +18,7 @@ export default function Page() {
   Independent owners club
 </div>
          <Image
-  src="/mco-logo.png"
+  src="/Monte-Carlo-Offshorer_plot LOGO.png"
   alt="Monte Carlo Offshorer"
   width={1200}
   height={260}
