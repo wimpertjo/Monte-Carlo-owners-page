@@ -14,9 +14,9 @@ export default function Page() {
       <section className="hero">
         <Image src={hero} alt="Ventimiglia yard" fill priority />
         <div className="container heroContent">
-          <div className="kicker" style={{ color: "rgba(244,239,230,.75)" }}>
-            Independent owners club • 27 / 30 / 32
-          </div>
+   <div className="kicker" style={{ color: "rgba(244,239,230,.75)" }}>
+  Independent owners club · 27 / 30 / 32
+</div>
           <h1 className="heroH1 serif">Monte Carlo Offshorer</h1>
           <p className="heroP">
             Built in Ventimiglia. Preserved by its owners.
